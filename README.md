@@ -2,7 +2,7 @@
 
 This project is a RAG (Retrieval-Augmented Generation) based anime recommender system built using Langchain. It leverages the power of large language models (LLMs) to provide personalized anime recommendations based on user descriptions.
 
-![Alt text]([assets/demo.gif](https://github.com/ChidambaraRaju/anime-rag-recommender/blob/main/images/recommendation.png))
+![Alt text](images/recommendation.png))
 
 
 ## ✨ Features
