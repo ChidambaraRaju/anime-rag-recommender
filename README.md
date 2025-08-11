@@ -2,6 +2,9 @@
 
 This project is a RAG (Retrieval-Augmented Generation) based anime recommender system built using Langchain. It leverages the power of large language models (LLMs) to provide personalized anime recommendations based on user descriptions.
 
+![Alt text](assets/demo.gif)
+
+
 ## ✨ Features
 
 *   **Natural Language Input:** Describe the kind of anime you want to watch in plain English.
@@ -47,7 +50,7 @@ The application follows a Retrieval-Augmented Generation (RAG) architecture:
     ```bash
     python -m venv venv
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-    pip install -r requirements.txt
+    pip install -e . # Install all the project dependencies
     ```
 
 3.  **Set up environment variables:**
