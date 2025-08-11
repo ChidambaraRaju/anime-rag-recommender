@@ -2,7 +2,7 @@
 
 This project is a RAG (Retrieval-Augmented Generation) based anime recommender system built using Langchain. It leverages the power of large language models (LLMs) to provide personalized anime recommendations based on user descriptions.
 
-![Alt text](images/recommendation.png))
+![Alt text](images/recommendation.png)
 
 
 ## ✨ Features
@@ -132,5 +132,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## 🙏 Acknowledgments
 
-*   The creators of LangChain, Streamlit, and ChromaDB.
 *   The providers of the anime dataset.
