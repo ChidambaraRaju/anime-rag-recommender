@@ -41,7 +41,7 @@ The application follows a Retrieval-Augmented Generation (RAG) architecture:
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/anime-recommender.git
+    https://github.com/ChidambaraRaju/anime-rag-recommender.git
     cd anime-recommender
     ```
 
